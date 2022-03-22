@@ -1,0 +1,44 @@
+#menú
+{
+    background-color: gray;
+    height: 1000px;
+    width: 10%;
+    float:left
+}
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+#sección1
+{
+    background-color:skyblue;
+    float:left;
+    width: 75%;
+    height: 250px;
+}
+#sección2
+{
+    background-color: yellow;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sección3
+{
+    background-color: orange;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sección4
+{
+    background-color: red;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+
